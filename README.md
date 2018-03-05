@@ -1,2 +1,2 @@
-# electon_website
-recreate website using electron
+# electron_shopping
+shopping list
