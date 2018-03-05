@@ -5,7 +5,7 @@ const url = require('url');
 //SET ENV
 process.env.NODE_ENV = 'development';
 
-const {app, BrowserWindow, Menu, icpMain} = electron;
+const {app, BrowserWindow, Menu, ipcMain} = electron;
 
 let mainWindow;
 let addWindow;
