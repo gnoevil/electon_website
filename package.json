@@ -1,0 +1,22 @@
+{
+  "name": "electon_website",
+  "version": "1.0.0",
+  "description": "recreate website using electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnoevil/electon_website.git"
+  },
+  "author": "gnoevil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnoevil/electon_website/issues"
+  },
+  "homepage": "https://github.com/gnoevil/electon_website#readme",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
+}
